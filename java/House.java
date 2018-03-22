@@ -31,4 +31,15 @@ Object: House
 State: Address, Color, Area
 Behavior: Open door, close door
 
+
+Example 2:
+Let’s take another example.
+Object: Car
+State: Color, Brand, Weight, Model
+Behavior: Break, Accelerate, Slow Down, Gear change.
+
+Note: As we have seen above, the states and behaviors of an object, can be represented by variables and methods in the class respectively.
+
+
+
 */

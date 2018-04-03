@@ -1,4 +1,10 @@
 // C class extends A and B extends A class, it is one-to-one relation. This type of relation is known as "multilevel inheritance"
+//https://way2java.com/oops-concepts/types-of-inheritance/
+/*
+    In multilevel, one-to-one ladder increases. Multiple classes are involved in inheritance, 
+but one class extends only one. The lowermost subclass can make use of all its super classes'
+ members. Multilevel inheritance is an indirect way of implementing multiple inheritance. 
+*/
 
 class A{
  

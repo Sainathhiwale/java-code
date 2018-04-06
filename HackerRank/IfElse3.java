@@ -1,4 +1,4 @@
-    
+ 
     import java.util.Scanner;
     
 
@@ -9,7 +9,7 @@
             Scanner sc=new Scanner(System.in);
             int n=sc.nextInt();            
             String ans="";
-            if(n%2!=0){
+            if(n%2!=0 || n<=20){
               ans = "Weird";
             }
             else{

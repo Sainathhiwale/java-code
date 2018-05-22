@@ -19,7 +19,6 @@ public static void main(String [] args)throws ArrayIndexOutOfBoundsException
      
 }
 
-// System.out.println("the element of:"+ary[n]);
   System.out.println("the element sum:"+sum);
 
   

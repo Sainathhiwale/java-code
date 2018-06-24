@@ -1,4 +1,4 @@
-/* java JavaScript Data Types
+/*  JavaScript Data Types
 JavaScript variables can hold many data types: numbers, strings, objects and more:
 */
 
